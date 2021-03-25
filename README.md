@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center">
+    SotaSuomi
+</p>
 
-<!--
-**SotaSuomi/SotaSuomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SotaSuomi&layout=compact&theme=midnight-purple" />
+</p>
 
-Here are some ideas to get you started:
+<p> 
+  <h1 align="center">Visitor count since 2021<br>
+  <img src="https://profile-counter.glitch.me/rege-dev/count.svg" />
+    </h1>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Be safe!
